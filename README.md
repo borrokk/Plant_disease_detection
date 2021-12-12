@@ -1,1 +1,1 @@
-# plant_disease_detection-networks-resnet
+# Image processing project on Plant disease detection
