@@ -5,9 +5,13 @@ Health monitoring and disease detection on plant is very critical for sustainabl
 
 # Here we train the datasets using the following networks-
 a. VGG19
+
 b. VGG16
+
 c. INCEPTION RESNET V2
+
 d. RESNET50
+
 e. DENSENET
 
 The network is capable of recognizing potential diseases using features in images. 
