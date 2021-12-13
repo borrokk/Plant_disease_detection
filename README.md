@@ -14,5 +14,5 @@ d. RESNET50
 
 e. DENSENET
 
-The network is capable of recognizing potential diseases using features in images. 
+The network is capable of recognizing potential diseases using features in leaf images. 
 This could in turn be distributed over the world to diagnose plant diseases using a simple web application.
