@@ -16,3 +16,8 @@ e. DENSENET
 
 The network is capable of recognizing potential diseases using features in leaf images. 
 This could in turn be distributed over the world to diagnose plant diseases using a simple web application.
+
+# Note
+1) networks -> DL networks used in this project
+2) image_p -> image preprocessing
+3) suitable for google colab implementation
